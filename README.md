@@ -3,11 +3,11 @@
 The **SaveLinks Chrome Extension** is a simple tool that allows you to save and manage your favorite links directly from your Chrome browser. With this extension, you can easily store URLs for future reference and access them conveniently whenever you need them. This README provides an overview of the project, its components, and how to set it up.
 
 ## Table of Contents
-- (#installation)
-- (#usage)
-- (#features)
-- (#contributing)
-- (#license)
+- Installation
+- usage
+- features
+- contributing
+- license
 
 ## Installation
 
